@@ -7,5 +7,3 @@ Sou altamente comprometido com a qualidade do código e busco constantemente as 
 Minha abordagem colaborativa e habilidades de comunicação me permitem trabalhar efetivamente em equipes multidisciplinares, compartilhando conhecimento e impulsionando a inovação. Tenho experiência em participar de todo o ciclo de desenvolvimento de projetos, desde a concepção até a implementação e a entrega, mantendo o foco no cumprimento de prazos e na satisfação dos stakeholders.
 
 Sou movido por desafios e motivado a encontrar soluções elegantes para os problemas complexos que surgem no desenvolvimento web. Meu objetivo é sempre exceder as expectativas e alcançar resultados excepcionais em cada projeto que me envolvo.
-
-Se você procura um desenvolvedor web comprometido, apaixonado por tecnologia e com habilidades comprovadas para impulsionar o sucesso dos projetos, ficarei feliz em fazer parte da sua equipe. Vamos construir juntos a próxima geração de experiências digitais incríveis.
